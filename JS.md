@@ -11,8 +11,10 @@
 
    **Explanation:** ```342 + 465 = 807```.
 
-3. Design and implement a Least Recently Used (LRU) cache in TypeScript with the following methods: \
+3. Implement Promise.all, no need to take care of rejections.
+
+4. Design and implement a Least Recently Used (LRU) cache in TypeScript with the following methods: \
    ```get(key: string): number | null``` – Returns the value of the key if it exists, otherwise returns null. \
    ```put(key: string, value: number): void``` – Inserts or updates the value of the key. If the cache exceeds its capacity, it should invalidate the least recently used item. The cache should be initialized with a capacity.
 
-4. Implement an event emitter with the abilities to subscribe, unsubscribe and emit events.
+5. Implement an event emitter with the abilities to subscribe, unsubscribe and emit events.
