@@ -1,3 +1,9 @@
+- 20 min for 1
+- 40 min for 2 or 3
+- 20 min for 4
+- 40 min for 5
+
+
 1. implement lodash/fp get:
 get('a.b.c', x);
 get('a.b.c')(x);
