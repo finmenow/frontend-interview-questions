@@ -22,7 +22,7 @@ Explanation: 342 + 465 = 807.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-4. implement React.useCallback using React.useRef (the candidate will share his screen while working in react playground)
+4. implement React.useMemo using React.useRef (the candidate will share his screen while working in react playground)
 
 
 5. implement useIsMouseMoving hook
